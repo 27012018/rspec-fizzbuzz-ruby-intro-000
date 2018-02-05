@@ -7,4 +7,5 @@ def fizzbuzz(number)
     "Fizzbuzz"
   else
     "nil"
+  end
 end
